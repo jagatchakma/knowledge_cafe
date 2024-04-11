@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "mainImage": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w600/2023/10/free-images.jpg",        
+        "userImage":  "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0e540bae86d5456aa034ada300ebf46c_9366/ZX_1K_Boost_Shoes_Grey_H00430_01_standard.jpg",
+        "userName": "Shari Roman",
+        "time": "Mar 14(5 Days ago)",
+        "timeRead": 20,
+        "title": "How to get your first job as a self-",
+        "subjectTitle": "taught programmer",
+        "hasTags": ["#one", "#two", "three"],
+        "spaind": ""
+    },
+    {
+        "id": 2,
+        "mainImage": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w600/2023/10/free-images.jpg",        
+        "userImage": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+        "userName": "Shari Roman",
+        "time": "Mar 14(5 Days ago)",
+        "timeRead": 10,
+        "title": "How to get your first job as a self-",
+        "subjectTitle": "taught programmer",
+        "hasTags": ["#one", "#two", "three"],
+        "spaind": ""
+    },
+    {
+        "id": 3,
+        "mainImage": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0846e90b15144861b33dacf500e3cfd1_9366/Kaptir_2.0_Shoes_White_H00276_01_standard.jpg",
+        "userImage": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg",
+        "userName": "Shari Roman",
+        "time": "Mar 14(5 Days ago)",
+        "timeRead": "10",
+        "title": "How to get your first job as a self-",
+        "subjectTitle": "taught programmer",
+        "hasTags": ["# one ", "# two ", " three "],
+        "spaind": ""
+    },
+    {
+        "id": 4,
+        "mainImage": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w600/2023/10/free-images.jpg",        
+        "userImage": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/69cbc73d0cb846889f89acbb011e68cb_9366/Supernova_Shoes_Black_S42722_01_standard.jpg",
+        "userName": "Shari Roman",
+        "time": "Mar 14(5 Days ago)",
+        "timeRead": "10",
+        "title": "How to get your first job as a self-",
+        "subjectTitle": "taught programmer",
+        "hasTags": ["#one", "#two", "three"],
+        "spaind": ""
+    },
+    {
+        "id": 5,
+        "mainImage": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w600/2023/10/free-images.jpg",        
+        "userImage": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/96a5f085fedf4e678095abad01056711_9366/Lite_Racer_Adapt_3.0_Shoes_Black_FX8802_01_standard.jpg",
+        "userName": "Shari Roman",
+        "time": "Mar 14(5 Days ago)",
+        "timeRead": "10",
+        "title": "How to get your first job as a self-",
+        "subjectTitle": "taught programmer",
+        "hasTags": ["#one", "#two", "three"],
+        "spaind": ""
+    },   
+    {
+        "id": 6,
+        "mainImage": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w600/2023/10/free-images.jpg",        
+        "userImage": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c5d1994dfd343e28567ad4400dd351d_9366/4DFWD_Shoes_Black_Q46447_01_standard.jpg",
+        "userName": "Shari Roman",
+        "time": "Mar 14(5 Days ago)",
+        "timeRead": "10",
+        "title": "How to get your first job as a self-",
+        "subjectTitle": "taught programmer",
+        "hasTags": ["#one", "#two", "three"],
+        "spaind": ""
+    }
+]
